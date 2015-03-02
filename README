@@ -4,4 +4,6 @@ February 2015
 
 Shuffle function from the Deck-o-Cards exercise we did in class.
 
+JSFiddle here: http://jsfiddle.net/khiara/069v9foq/1/
+
 I really wanted to have a way to re-order the colors back into ROYGBIV, and that was the biggest challenge. Sorting by hidden numbers in the <li> was the only way I could make it work; inspired by this JSFiddle I came across during many hours of looking for a solution:  http://jsfiddle.net/hibbard_eu/C2heg/
