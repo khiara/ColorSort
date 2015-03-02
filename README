@@ -1,6 +1,6 @@
-# Code Fellows Foundations I 
-# Final Project - Visualize an Algorithm
-## February 2015
+Code Fellows Foundations I 
+Final Project - Visualize an Algorithm
+February 2015
 
 Shuffle function from the Deck-o-Cards exercise we did in class.
 I really wanted to have a way to re-order the colors back into ROYGBIV, and that was the biggest challenge.
