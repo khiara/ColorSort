@@ -23,6 +23,6 @@ $('#shuffle').on('click', function() {
 
 
 $('#sort').on('click', function(){
-  $('.wrapper').html(basicSort);
+  $('.wrapper ul').html(basicSort);
 });
  
